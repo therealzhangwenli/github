@@ -12,3 +12,6 @@
 # 7. Give it a title (as you want), paste SSH key you copied to "key" then click "Add SSH Key".
 
 # ALL DONE!
+
+# Multiple Account in one machine
+# http://mherman.org/blog/2013/09/16/managing-multiple-github-accounts/#.WsbedtYh1FQ
